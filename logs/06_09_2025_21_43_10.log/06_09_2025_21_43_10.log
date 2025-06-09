@@ -1,0 +1,3 @@
+[ 2025-06-09 21:43:11,262 ] 21 root - INFO - Starting data ingestion...
+[ 2025-06-09 21:43:11,267 ] 24 root - INFO - Data ingestion completed successfully.
+[ 2025-06-09 21:43:11,280 ] 30 root - INFO - Train and test datasets created successfully.
