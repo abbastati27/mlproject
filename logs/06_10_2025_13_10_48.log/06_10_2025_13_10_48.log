@@ -1,0 +1,7 @@
+[ 2025-06-10 13:10:54,754 ] 23 root - INFO - Starting data ingestion...
+[ 2025-06-10 13:10:54,760 ] 26 root - INFO - Data ingestion completed successfully.
+[ 2025-06-10 13:10:54,773 ] 32 root - INFO - Train and test datasets created successfully.
+[ 2025-06-10 13:10:54,777 ] 64 root - INFO - Data transformation initiated
+[ 2025-06-10 13:10:54,777 ] 46 root - INFO - Numerical and categorical columns preprocessing completed
+[ 2025-06-10 13:10:54,777 ] 66 root - INFO - Data transformation completed
+[ 2025-06-10 13:10:54,778 ] 77 root - INFO - Data transformation completed
